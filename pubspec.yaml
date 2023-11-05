@@ -29,13 +29,13 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   cupertino_icons: ^1.0.2
-  # http: ^1.0.0
-  # fiberbase_core: ^2.13.1
-
   dots_indicator: ^3.0.0
+  firebase_auth: ^4.12.1
   flutter:
     sdk: flutter
+  flutter_facebook_auth: ^6.0.2
   get: ^4.6.6
+  google_sign_in: ^6.1.5
 
 dev_dependencies:
   flutter_lints: ^2.0.0
