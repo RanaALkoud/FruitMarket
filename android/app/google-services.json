@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089253396024",
+    "project_id": "flutterfirebase-341bd",
+    "storage_bucket": "flutterfirebase-341bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089253396024:android:719b33e1312fd5ddf4a0cd",
+        "android_client_info": {
+          "package_name": "com.example.vegetables_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0i235dGtQXx8DThueUGz0nRP7Z53GLFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
